@@ -2,18 +2,18 @@
 Basic Password Manager made with Nodejs and the npm chalk package.
 
 ------------Password Manager--------------
-Command: --add
+Command: --add  
 About: Add a record/password to the database.
 ---------------------------
-Command: --change
+Command: --change  
 About: Change password for a record in the database.
 ---------------------------
-Command: --remove
+Command: --remove  
 About: Remove/Delete a record from database.
 ---------------------------
-Command: --find
+Command: --find  
 About: Find a record using website and username.
 ---------------------------
-Command: --clear
+Command: --clear  
 About: Purge database of all the records. Irreversible. Requires Authorization.
 ---------------------------
