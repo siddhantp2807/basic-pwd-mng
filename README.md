@@ -1,19 +1,19 @@
 # basic-pwd-mng
-Basic Password Manager made with Nodejs and the npm chalk package.
+Basic Password Manager made with Nodejs and the npm chalk package.  
 
-------------Password Manager--------------
+------------Password Manager--------------  
 Command: --add  
-About: Add a record/password to the database.
+About: Add a record/password to the database.  
 ---------------------------
 Command: --change  
-About: Change password for a record in the database.
+About: Change password for a record in the database.  
 ---------------------------
 Command: --remove  
-About: Remove/Delete a record from database.
+About: Remove/Delete a record from database.  
 ---------------------------
 Command: --find  
-About: Find a record using website and username.
+About: Find a record using website and username.  
 ---------------------------
 Command: --clear  
-About: Purge database of all the records. Irreversible. Requires Authorization.
+About: Purge database of all the records. Irreversible. Requires Authorization.  
 ---------------------------
